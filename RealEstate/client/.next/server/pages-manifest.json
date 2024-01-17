@@ -1,0 +1,21 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.js",
+  "/author": "pages/author.js",
+  "/active": "pages/active.js",
+  "/about": "pages/about.js",
+  "/contact": "pages/contact.js",
+  "/create": "pages/create.js",
+  "/category/[category]": "pages/category/[category].js",
+  "/creator": "pages/creator.js",
+  "/edit-profile": "pages/edit-profile.js",
+  "/": "pages/index.js",
+  "/explor": "pages/explor.js",
+  "/detail": "pages/detail.js",
+  "/indexOld": "pages/indexOld.js",
+  "/privacy": "pages/privacy.js",
+  "/product": "pages/product.js",
+  "/update": "pages/update.js",
+  "/_document": "pages/_document.js"
+}
