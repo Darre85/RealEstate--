@@ -14,7 +14,7 @@ const AuthorFour = () => {
         data-bs-dismiss="modal"
         aria-label="Close"
       >
-        {/* <i data-feather="x"></i> */}
+       
       </button>
       <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
         <div class="modal-content share-wrapper">
@@ -26,7 +26,7 @@ const AuthorFour = () => {
               <li>
                 <a href="#">
                   <span class="icon">
-                    {/* <i data-feather="facebook"></i> */}
+            
                   </span>
                   <span class="text">facebook</span>
                 </a>
@@ -34,7 +34,7 @@ const AuthorFour = () => {
               <li>
                 <a href="#">
                   <span class="icon">
-                    {/* <i data-feather="twitter"></i> */}
+                   
                   </span>
                   <span class="text">twitter</span>
                 </a>
@@ -42,7 +42,7 @@ const AuthorFour = () => {
               <li>
                 <a href="#">
                   <span class="icon">
-                    {/* <i data-feather="linkedin"></i> */}
+                 
                   </span>
                   <span class="text">linkedin</span>
                 </a>
@@ -50,7 +50,7 @@ const AuthorFour = () => {
               <li>
                 <a href="#">
                   <span class="icon">
-                    {/* <i data-feather="instagram"></i> */}
+                   
                   </span>
                   <span class="text">instagram</span>
                 </a>
@@ -58,7 +58,7 @@ const AuthorFour = () => {
               <li>
                 <a href="#">
                   <span class="icon">
-                    {/* <i data-feather="youtube"></i> */}
+                   
                   </span>
                   <span class="text">youtube</span>
                 </a>

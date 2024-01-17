@@ -8,7 +8,7 @@ const EditProfileTwo = () => {
           <div class="col-12 d-flex justify-content-between mb--30 align-items-center">
             <h4 class="title-left">Edit Your Profile</h4>
             <a href="author.html" class="btn btn-primary ml--10">
-              {/* <i class="feather-eye mr--5"></i>  */}
+            
               Preview
             </a>
           </div>
@@ -27,7 +27,7 @@ const EditProfileTwo = () => {
                   aria-controls="nav-home"
                   aria-selected="true"
                 >
-                  {/* <i class="feather-edit"></i> */}
+              
                   Edit Profile Image
                 </button>
                 <button
@@ -40,7 +40,7 @@ const EditProfileTwo = () => {
                   aria-controls="nav-homes"
                   aria-selected="false"
                 >
-                  {/* <i class="feather-user"></i> */}
+           
                   Personal Information
                 </button>
                 <button
@@ -54,7 +54,7 @@ const EditProfileTwo = () => {
                   aria-selected="false"
                 >
                   {" "}
-                  {/* <i class="feather-unlock"></i> */}
+               
                   Change Password
                 </button>
                

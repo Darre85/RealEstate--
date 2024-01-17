@@ -3,8 +3,7 @@ import React from "react";
 
 import { getTopCreators } from "../../utils";
 const Activity = ({ properties, totalReviews, popular }) => {
-  // const creators = getTopCreators(properties);
-  // console.log(creators);
+ 
   return (
     <div class="rn-activity-area rn-section-gapTop">
       <div class="container">
@@ -59,7 +58,7 @@ const Activity = ({ properties, totalReviews, popular }) => {
                   <h3>Analytic Stats</h3>
                   <div class="sing-filter">
                     <button>Total Property: {properties?.length}</button>
-                    {/* <button>Users: {creators.length}</button> */}
+                   
                     <button>Reviews: {totalReviews}</button>
                   </div>
                 </div>

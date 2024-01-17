@@ -14,7 +14,7 @@ const AuthorTwo = ({ address, author }) => {
                 <div class="rn-author-info-content">
                   <h4 class="title">{address?.slice(0, 20)}...</h4>
                   <a href="#" class="social-follw">
-                    {/* <i data-feather="twitter"></i> */}
+                   
                   </a>
                   <div class="follow-area">
                     <div class="follow followers">

@@ -6,4 +6,4 @@ const Action = () => {
 
 export default Action;
 
-//Future implementation inshaallah
+//Future implementation

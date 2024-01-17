@@ -14,7 +14,7 @@ const AuthorFive = () => {
         data-bs-dismiss="modal"
         aria-label="Close"
       >
-        {/* <i data-feather="x"></i> */}
+       
       </button>
       <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
         <div class="modal-content report-content-wrapper">

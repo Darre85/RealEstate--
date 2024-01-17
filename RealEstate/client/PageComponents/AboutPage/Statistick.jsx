@@ -1,5 +1,4 @@
 import React from "react";
-// test
 const Statistick = () => {
   return (
     <div class="rn-statistick-area rn-section-gapTop">
